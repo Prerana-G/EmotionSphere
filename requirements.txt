@@ -5,5 +5,3 @@ tensorflow
 scikit-learn
 matplotlib
 seaborn
-
-

@@ -1,1 +1,9 @@
 fer2013
+fer_cnn_best_model.keras
+fer_cnn_final_model.h5
+
+uploads
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
