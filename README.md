@@ -55,6 +55,7 @@ pip install -r requirements.txt
      ```bash
      python src/app.py
      ```
+     - Open your browser and go to http://127.0.0.1:5000/ to use the web-based emotion detection system.
    - **Real-time Webcam Recognition** 🎥:
      ```bash
      python src/real_time.py
